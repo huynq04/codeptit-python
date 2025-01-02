@@ -2,6 +2,8 @@
 
 - python có thể xử lý được số nguyên lớn
 
+- Hàm Counter để đếm số lần xuất hiện
+
 - hàm ord() dùng để chuyển 1 ký tự sang mã ascii
 
 - i.isdigit() để kiểm tra chuỗi "i" có phải là số không
